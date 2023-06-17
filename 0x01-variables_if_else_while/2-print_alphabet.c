@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: Checks the last digit of a randomly generated number
+ * Description: Prints the character 'A' followed by a new line
  *
  * Return: Always 0 (Success)
  */

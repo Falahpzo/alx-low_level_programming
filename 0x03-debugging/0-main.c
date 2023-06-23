@@ -5,12 +5,13 @@
  *
  * Return: Always 0
  */
+
 int main(void)
 {
 	int i;
 
 	i = 98;
-	print_number(i);
+	positive_or_negative(i);
 
 	return (0);
 }
